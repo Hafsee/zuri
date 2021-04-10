@@ -1,0 +1,8 @@
+.toggle-button{
+    position: absolute;
+    top:0.8;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+}
